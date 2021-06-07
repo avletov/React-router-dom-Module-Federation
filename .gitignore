@@ -1,0 +1,6 @@
+importer/node_modules
+exporter1/node_modules
+exporter2/node_modules
+importer/package-lock.json
+exporter1/package-lock.json
+exporter2/package-lock.json
