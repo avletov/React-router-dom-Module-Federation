@@ -11,8 +11,8 @@ npm run start
 
 |Приложение|Хост|
 |---------------| --------------- |
-| Homepage | localhost:3001/ |
-| Application_1 | localhost:3002/ |
-| Application_2 | localhost:3003/ |
+| Homepage | [localhost:3001/](http://localhost:3001/) |
+| Application_1 | [localhost:3002/](http://localhost:3002/) |
+| Application_2 | [localhost:3003/](http://localhost:3003/) |
 
-Главная страница: localhost:3001/
+Главная страница: [localhost:3001/](http://localhost:3001/)
